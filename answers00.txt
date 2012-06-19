@@ -1,0 +1,10 @@
+1. 11/2 is 5
+   11.0/2 is 5.5
+
+2. 3 to the power 27 is 7625597484987
+
+3. (134533 + 6889980 - 84849) to the power 3 is 334206837441656786944
+
+4. The average time per meter is 0.00569620253165  minutes/metre
+
+5. The shortest distance is  6.53031063766  miles
